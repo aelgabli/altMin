@@ -1,5 +1,5 @@
-# altMin
-Low Complexity Signal Detection Algorithm for Massive MIMO communications
+# AltMin and PJ-ADMM
+Low Complexity Signal Detection Algorithms for Massive MIMO communications
 
 In the main.m (line 11), you can specify the algorithm that you would like to run. By default the line is set to "Algorithm = 'alterMin';"
 There are two algorithms, AltMin and Proximal Jacobian ADMM which are described in our two papers:
